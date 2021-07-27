@@ -1,5 +1,12 @@
 # Studypod2.0
 <body>
+     <div>
+      <p>Name : <b>Jainy Jain</b></p>
+      <p>Branch : <b>IT</b></p>
+      <p>Year : <b>1st</b></p>
+      <p>SP No. : <b>Jainy Jain</b></p>
+      <p>Mentor Name: <b>Anurag Gupta</b></p>
+  </div>
     <div>
     <table border="5">
         <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>

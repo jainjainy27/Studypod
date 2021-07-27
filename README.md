@@ -24,7 +24,7 @@
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
-                    <td>Image</image></td>
+                    <td>Styling</image></td>
                     <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
                     <td>NO</td>
                     <td></td>

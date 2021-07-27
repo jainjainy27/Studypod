@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styling</title>
+    <style>
+               header {
+            background-color: black;
+            color: white;
+            font-size: medium;
+        }
+        .college{
+            text-align: center;
+            font-size: x-large;
+        }
+        .red{
+            background-color: rgb(179, 179, 194);
+            color: firebrick;
+        }
+        pre{
+            background-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li>Home</li>
+            <li>About us</li>
+            <li>Contact</li>
+        </ul>
+    </header>
+    <div class="college">
+        <b><u>APNA COLLEGE</u></b> <BR>
+        <img src="https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200123students.jpg"><br>
+       
+        <i>EXAM FORM 2021</i>   
+    </div>
+    <form action="form.php">
+        <pre>
+        NAME :<input type="text" class="red">             FATHER'S NAME :<input type="text" class="red"><br>
+        <hr>
+        EMAIL ID :<input type="text" class="red">         MOBILE NO. : <input type="text" class="red"><br>
+        <hr>
+        DATE OF BIRTH :<input type="date"><br><hr>
+        GENDER :<label for="male">
+            <input type= "radio" value="male" name="gender" id="male">male</label>
+        <label for="female">
+            <input type= "radio" value="female" name="gender" id="female">female
+            <hr>
+         <label for="physical">
+                <input type= "checkbox" name="yesorno" id="physical">Physically handicaped   
+            </label><br> <hr>
+        COURSE :<input type="text">
+        <hr>
+        Year :<select name="year" id"vehicle">
+            <option value="no year">select year</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select><br>
+
+        <input type= "Submit" value="Submit">
+        </pre>
+    
+    </form>
+</body>
+
+</html>

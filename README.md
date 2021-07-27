@@ -2,7 +2,7 @@
 <body>
     <div>
     <table border="5">
-        <caption> STUDYPOD2.0 DAILY REPORT </caption>
+        <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
         <thead>
             <tr>
                 <th width="350">S.No</th>
@@ -18,6 +18,14 @@
                     <td>26/07/2021</td>
                     <td>CSS used in Exam form</td>
                     <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>27/07/2021</td>
+                    <td>Image</image></td>
+                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
                     <td>NO</td>
                     <td></td>
                 </tr>

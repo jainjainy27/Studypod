@@ -36,6 +36,14 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td>3</td>
+                    <td>28/07/2021</td>
+                    <td>Display-font</td>
+                    <td>display,fonts,position</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>

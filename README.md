@@ -52,6 +52,14 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>5</td>
+                    <td>30/07/2021</td>
+                    <td>fun camp</td>
+                    <td>flex box</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>

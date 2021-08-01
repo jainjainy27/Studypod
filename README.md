@@ -60,6 +60,22 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td>6</td>
+                    <td>31/07/2021</td>
+                    <td>grid</td>
+                    <td>grid and tranforms</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>1/08/2021</td>
+                    <td>no but will submit soon</td>
+                    <td>transions and animations</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>

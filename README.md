@@ -72,7 +72,7 @@
                     <td>7</td>
                     <td>1/08/2021</td>
                     <td>no but will submit soon</td>
-                    <td>transions and animations</td>
+                    <td>transtions and animations</td>
                     <td>code of transition<br>not worked</td>
                     <td></td>
                 </tr>

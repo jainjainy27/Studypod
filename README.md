@@ -31,7 +31,7 @@
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
-                    <td>Styling</image></td>
+                    <td>Styling.html</image></td>
                     <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
                     <td>NO</td>
                     <td></td>
@@ -39,7 +39,7 @@
                 <tr>
                     <td>3</td>
                     <td>28/07/2021</td>
-                    <td>Display-font</td>
+                    <td>Display-font.html</td>
                     <td>display,fonts,position</td>
                     <td>NO</td>
                     <td></td>
@@ -47,7 +47,7 @@
                  <tr>
                     <td>4</td>
                     <td>29/07/2021</td>
-                    <td>Famous Books</td>
+                    <td>Famous Books.html</td>
                     <td>positon,Relative lenghts</td>
                     <td>NO</td>
                     <td></td>
@@ -55,7 +55,7 @@
                  <tr>
                     <td>5</td>
                     <td>30/07/2021</td>
-                    <td>fun camp</td>
+                    <td>fun camp.html</td>
                     <td>flex box</td>
                     <td>NO</td>
                     <td></td>
@@ -63,7 +63,7 @@
                 <tr>
                     <td>6</td>
                     <td>31/07/2021</td>
-                    <td>grid</td>
+                    <td>grid.html</td>
                     <td>grid and tranforms</td>
                     <td>NO</td>
                     <td></td>
@@ -73,6 +73,14 @@
                     <td>1/08/2021</td>
                     <td>no but will submit soon</td>
                     <td>transions and animations</td>
+                    <td>code of transition<br>not worked</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>2/08/2021</td>
+                    <td>Animation.html</td>
+                    <td>CSS completed</td>
                     <td>NO</td>
                     <td></td>
                 </tr>

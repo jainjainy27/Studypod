@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam form 2021</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-style: initial;
+        }
+        div{
+            color :red;
+            background-color : black;
+        }
+        hr,h1,h2{
+            color: white;
+            background-color: rgb(17, 4, 94);
+        }
+        .red{
+            background-color: rgb(179, 179, 194);
+            color: firebrick;
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <h1 style= "font-size: 35px;"><B><u>APNA COLLEGE,INDIA</u></B></h1>
+    <h2 style= "font-size: 30px;"><I>Exam form 2021</I></h2><br>
+    <br>
+    <form action="form.php">
+        <pre>
+        NAME :<input type="text" class="red">             FATHER'S NAME :<input type="text" class="red"><br>
+        <hr>
+        EMAIL ID :<input type="text" class="red">         MOBILE NO. : <input type="text" class="red"><br>
+        <hr>
+        DATE OF BIRTH :<input type="date"><br><hr>
+        GENDER :<label for="male">
+            <input type= "radio" value="male" name="gender" id="male">male</label>
+        <label for="female">
+            <input type= "radio" value="female" name="gender" id="female">female
+            <hr>
+         <label for="physical">
+                <input type= "checkbox" name="yesorno" id="physical">Physically handicaped   
+            </label><br> <hr>
+        COURSE :<input type="text">
+        <hr>
+        Year :<select name="year" id"vehicle">
+            <option value="no year">select year</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select><br>
+
+        <input type= "Submit" value="Submit">
+        </pre>
+    
+    </div>
+    </form>
+</body>
+</html>

@@ -124,6 +124,14 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>14</td>
+                    <td>3/08/2021</td>
+                    <td>no</td>
+                    <td><i>Javascript</i><br>basic struture<br>values and variables</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>

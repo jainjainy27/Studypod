@@ -132,6 +132,14 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>15</td>
+                    <td>4/08/2021</td>
+                    <td>no</td>
+                    <td><i>Javascript</i><br>data types<br>Operators<br>Operator precedence</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>

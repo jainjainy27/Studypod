@@ -132,7 +132,7 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
-                 <tr>
+                <tr>
                     <td>15</td>
                     <td>4/08/2021</td>
                     <td>Working on project</td>
@@ -140,7 +140,15 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
-            </tbody>
+                <tr>
+                    <td>16</td>
+                    <td>5/08/2021</td>
+                    <td>Working on project</td>
+                    <td><i>Javascript</i><br>Logical & equality<br>Operator<br>If-else,switch case<br>conditional operator</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+        </tbody>
         </table>
     </div>
 </body>

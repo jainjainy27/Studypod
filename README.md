@@ -144,7 +144,7 @@
                     <td>16</td>
                     <td>5/08/2021</td>
                     <td>Working on project</td>
-                    <td><i>Javascript</i><br>Logical & equality<br>Operator<br>If-else,switch case<br>conditional operator</td>
+                    <td><i>Javascript</i><br>Logical & equality Operator<br>If-else,switch case<br>conditional operator</td>
                     <td>NO</td>
                     <td></td>
                 </tr>

@@ -148,6 +148,14 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+               <tr>
+                    <td>16</td>
+                    <td>6/08/2021</td>
+                    <td>Working on project</td>
+                    <td><i>Javascript</i><br>Function, Arrow function<br>Array<br>Basic array operation</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
         </tbody>
         </table>
     </div>

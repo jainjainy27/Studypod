@@ -156,6 +156,14 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+               <tr>
+                    <td>17</td>
+                    <td>7/08/2021</td>
+                    <td>Working on project</td>
+                    <td><i>Javascript</i><br>Object and its method<br>For and while loop</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
         </tbody>
         </table>
     </div>

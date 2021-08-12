@@ -160,10 +160,50 @@
                     <td>17</td>
                     <td>7/08/2021</td>
                     <td>Working on project</td>
-                    <td><i>Javascript</i><br>Object and its method<br>For and while loop</td>
+                    <td><i>Javascript</i><br>Object and its method</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
+               <tr>
+                    <td>18</td>
+                    <td>8/08/2021</td>
+                    <td>Project1</td>
+                    <td><i>Javascript</i>For and while loop</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>9/08/2021</td>
+                    <td>-</td>
+                    <td><i>Javascript</i><br>Looping arrays and<br> looping backwards</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>10/08/2021</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>11/08/2021</td>
+                    <td>-</td>
+                    <td><i>Javascript</i><br>DOM and DOM manipulation</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+               <tr>
+                    <td>22</td>
+                    <td>12/08/2021</td>
+                    <td>-</td>
+                    <td><i>Javascript</i>logic of the game<br> GUESS THE NUMBER</td>
+                    <td>NO</td>
+                    <td></td>
+               </tr>
         </tbody>
         </table>
     </div>

@@ -204,6 +204,14 @@
                     <td>NO</td>
                     <td></td>
                </tr>
+               <tr>
+                    <td>2</td>
+                    <td>13/08/2021</td>
+                    <td>-</td>
+                    <td><i>Javascript</i>Scope and scope chain<br>hoisting variables</td>
+                    <td>NO</td>
+                    <td></td>
+               </tr>
         </tbody>
         </table>
     </div>

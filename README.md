@@ -200,15 +200,23 @@
                     <td>22</td>
                     <td>12/08/2021</td>
                     <td>-</td>
-                    <td><i>Javascript</i>logic of the game<br> GUESS THE NUMBER</td>
+                    <td><i>Javascript</i><br>logic of the game<br> GUESS THE NUMBER</td>
                     <td>NO</td>
                     <td></td>
                </tr>
                <tr>
-                    <td>2</td>
+                    <td>23</td>
                     <td>13/08/2021</td>
                     <td>-</td>
-                    <td><i>Javascript</i>Scope and scope chain<br>hoisting variables</td>
+                    <td><i>Javascript</i><br>Scope and scope chain<br>hoisting variables</td>
+                    <td>NO</td>
+                    <td></td>
+               </tr>
+               <tr>
+                    <td>24</td>
+                    <td>14/08/2021</td>
+                    <td>-</td>
+                    <td><i>Javascript</i><br>this variable<br>and its usage</td>
                     <td>NO</td>
                     <td></td>
                </tr>

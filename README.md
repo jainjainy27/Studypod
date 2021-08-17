@@ -220,6 +220,30 @@
                     <td>NO</td>
                     <td></td>
                </tr>
+                <tr>
+                    <td>25</td>
+                    <td>15/08/2021</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>26</td>
+                    <td>16/08/2021</td>
+                    <td>working on final project</td>
+                    <td><i>Javascript</i><br>HTML Selector and <br> its type</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>27</td>
+                    <td>17/08/2021</td>
+                    <td>working on final project</td>
+                    <td><i>Javascript</i><br>Event and event objects</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
         </tbody>
         </table>
     </div>

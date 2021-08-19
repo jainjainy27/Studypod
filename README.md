@@ -244,6 +244,22 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>28</td>
+                    <td>18/08/2021</td>
+                    <td>working on final project</td>
+                    <td><i>Javascript</i><br>Local and session storage<br>Math object</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>29</td>
+                    <td>19/08/2021</td>
+                    <td>working on final project</td>
+                    <td><i>Javascript</i><br>object literals and construtors</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
         </tbody>
         </table>
     </div>
